@@ -1,5 +1,6 @@
 Ea mlkshk activated charcoal, cardigan edison bulb vape messenger bag authentic meditation. Qui flannel aliqua snackwave freegan ethical fixie, whatever laboris lumbersexual consectetur authentic. Sriracha swag tbh 90's. Fanny pack aute cornhole, veniam beard cray cold-pressed skateboard everyday carry cardigan direct trade. Quis green juice bicycle rights ea hella paleo blog.
 
+<<<<<<< HEAD
 
 ajout de texte suite a tracked files
 
@@ -7,5 +8,8 @@ ajout complémentaire
 
 ajout editing files
 
+=======
+texte rajouté depuis le remote (web)
+>>>>>>> 48bcd3abffbcd719545e389aa0f91352dc768fa2
 
 ggtexte du TP - essai 1
